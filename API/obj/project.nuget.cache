@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CjQnimGs169Cp9INJetKgOY5zixW/E8ZEzSWw1wztrsrM7L/Vvi9EfEDqxRbwSr2aZpHT44OVuGd3OXr7rwG+A==",
+  "success": true,
+  "projectFilePath": "/Users/helenahan/Desktop/yoyo-online-store/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/helenahan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/helenahan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/helenahan/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/helenahan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/helenahan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/helenahan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
