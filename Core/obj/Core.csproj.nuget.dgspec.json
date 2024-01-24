@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/helenahan/Desktop/yoyo-online-store/core/Core.csproj": {}
+    "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj": {}
   },
   "projects": {
-    "/Users/helenahan/Desktop/yoyo-online-store/core/Core.csproj": {
+    "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/helenahan/Desktop/yoyo-online-store/core/Core.csproj",
+        "projectUniqueName": "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/helenahan/Desktop/yoyo-online-store/core/Core.csproj",
+        "projectPath": "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj",
         "packagesPath": "/Users/helenahan/.nuget/packages/",
-        "outputPath": "/Users/helenahan/Desktop/yoyo-online-store/core/obj/",
+        "outputPath": "/Users/helenahan/Desktop/yoyo-online-store/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/helenahan/.nuget/NuGet/NuGet.Config"

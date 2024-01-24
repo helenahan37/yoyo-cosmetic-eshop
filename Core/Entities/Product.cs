@@ -1,10 +1,10 @@
 
 
-namespace API.Entities
+namespace Core.Entities
 {
     public class Product
     {
         public int Id { get; set; }
-        public int Name { get; set; }
+        public string Name { get; set; }
     }
 }
