@@ -2,7 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using API.Data;
+using API.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using SQLitePCL;
 
 namespace API.Controllers
 {
@@ -10,18 +14,27 @@ namespace API.Controllers
   [Route("api/[controller]")]
   public class ProductsController : ControllerBase
   {
+    private readonly StoreContext _context;
+    public ProductsController(StoreContext context)
+    {
+      _context = context;
+    }
+
     //get all products
     [HttpGet]
-    public string GetProducts()
+    public async Task<ActionResult<List<Product>>> GetProducts()
     {
-      return "This will be a list of products";
+      var products = await _context.Products.ToListAsync();
+      return products;
     }
+
 
     //get products/by id
     [HttpGet("{id}")]
-    public string GetProducts(int id)
+    public async Task<ActionResult<Product>> GetProducts(int id)
     {
-      return "This will be a product";
+      return await _context.Products.FindAsync(id);
+
     }
   }
 }

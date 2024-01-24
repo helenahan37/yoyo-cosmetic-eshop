@@ -1,0 +1,4 @@
+{
+	"csharpextensions.usings.include": false,
+	"csharpextensions.privateMemberPrefix": "_"
+}
