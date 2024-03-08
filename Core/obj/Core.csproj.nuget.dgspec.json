@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj": {}
+    "/Users/helenahan/Desktop/yoyo-cosmetic/Core/Core.csproj": {}
   },
   "projects": {
-    "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj": {
+    "/Users/helenahan/Desktop/yoyo-cosmetic/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj",
+        "projectUniqueName": "/Users/helenahan/Desktop/yoyo-cosmetic/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj",
+        "projectPath": "/Users/helenahan/Desktop/yoyo-cosmetic/Core/Core.csproj",
         "packagesPath": "/Users/helenahan/.nuget/packages/",
-        "outputPath": "/Users/helenahan/Desktop/yoyo-online-store/Core/obj/",
+        "outputPath": "/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/helenahan/.nuget/NuGet/NuGet.Config"

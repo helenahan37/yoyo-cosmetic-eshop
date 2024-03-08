@@ -10,3 +10,15 @@
 /Users/helenahan/Desktop/yoyo-online-store/Core/obj/Debug/net8.0/refint/Core.dll
 /Users/helenahan/Desktop/yoyo-online-store/Core/obj/Debug/net8.0/Core.pdb
 /Users/helenahan/Desktop/yoyo-online-store/Core/obj/Debug/net8.0/ref/Core.dll
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/bin/Debug/net8.0/Core.deps.json
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/bin/Debug/net8.0/Core.dll
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/bin/Debug/net8.0/Core.pdb
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/Core.sourcelink.json
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/Core.dll
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/refint/Core.dll
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/Core.pdb
+/Users/helenahan/Desktop/yoyo-cosmetic/Core/obj/Debug/net8.0/ref/Core.dll

@@ -1200,11 +1200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/helenahan/Desktop/yoyo-online-store/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/helenahan/Desktop/yoyo-cosmetic/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/helenahan/Desktop/yoyo-online-store/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/helenahan/Desktop/yoyo-cosmetic/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/helenahan/.nuget/packages/",
-      "outputPath": "/Users/helenahan/Desktop/yoyo-online-store/Infrastructure/obj/",
+      "outputPath": "/Users/helenahan/Desktop/yoyo-cosmetic/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/helenahan/.nuget/NuGet/NuGet.Config"
@@ -1219,8 +1219,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj": {
-              "projectPath": "/Users/helenahan/Desktop/yoyo-online-store/Core/Core.csproj"
+            "/Users/helenahan/Desktop/yoyo-cosmetic/Core/Core.csproj": {
+              "projectPath": "/Users/helenahan/Desktop/yoyo-cosmetic/Core/Core.csproj"
             }
           }
         }
