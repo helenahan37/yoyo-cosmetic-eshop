@@ -1,0 +1,90 @@
+[
+	{
+		"Name": "VALMONT Moisturizing Booster",
+		"Description": "A true infusion of hyaluronic acid of different molecular weights, this gel immediately and deeply hydrates all layers of skin.",
+		"Price": 200,
+		"PictureUrl": "images/products/sb-ang1.png",
+		"ProductTypeId": 6,
+		"ProductBrandId": 1
+	},
+	{
+		"Name": "SOFINA Primavista Boost Primer",
+		"Description": "Upgrade your makeup finish and longevity regardless of the type of foundation used. With a milky lotion-like texture, it creates a base for makeup that looks as if the skin’s texture has been refined. Ensures foundation adheres smoothly without any unevenness, achieving a uniform finish. Prevents not only shine and stickiness but also foundation smudging or running. ",
+		"Price": 49.99,
+		"PictureUrl": "images/products/sb-ang2.png",
+		"ProductTypeId": 1,
+		"ProductBrandId": 2
+	},
+	{
+		"Name": "CANMAKE Silky Loose Moist Powder",
+		"Description": "Instantly achieve a silky smooth finish upon application! This moisturizing loose powder prevents makeup from smudging due to moisture. Formulated with soft-focus effect powder, it makes skin appear flat, reducing the visibility of pores.",
+		"Price": 19.99,
+		"PictureUrl": "images/products/sb-core1.png",
+		"ProductTypeId": 2,
+		"ProductBrandId": 3
+	},
+	{
+		"Name": "CANMAKE Munyutto Highlighter",
+		"Description": "A Water, Sweat, and Oil Resistant Creamy Highlighter for a Dewy Glow",
+		"Price": 12.99,
+		"PictureUrl": "images/products/sb-core2.png",
+		"ProductTypeId": 3,
+		"ProductBrandId": 3
+	},
+	{
+		"Name": "SHISEIDO INTEGRATE Melty Fit Concealer",
+		"Description": "Simply twist the concealer with your fingertips, and it melts onto the skin, adhering closely to cover any skin imperfections.",
+		"Price": 32.99,
+		"PictureUrl": "images/products/sb-react1.png",
+		"ProductTypeId": 4,
+		"ProductBrandId": 4
+	},
+	{
+		"Name": "FANCL Mild Cleansing Oil",
+		"Description": "The use of nanotechnology's nano-ultra-cleansing agents allows the cleansing oil to disperse into extremely tiny nanoparticles the moment it's rinsed with water, enabling instant cleansing.",
+		"Price": 32.99,
+		"PictureUrl": "images/products/sb-ts1.png",
+		"ProductTypeId": 5,
+		"ProductBrandId": 5
+	},
+	{
+		"Name": "COSME DECORTE Phytotune Whitening Toner",
+		"Description": "Natural plant ingredients provide gentle hydration without irritation, making it safe for use even on sensitive skin. It can effectively calm and soothe skin that is prone to redness and instability, improve the appearance of enlarged pores, and help balance the skin's water and oil levels.",
+		"Price": 44.95,
+		"PictureUrl": "images/products/hat-core1.png",
+		"ProductTypeId": 6,
+		"ProductBrandId": 6
+	},
+	{
+		"Name": "COSME DECORTE Face Powder",
+		"Description": "Made from the highest quality organic silk materials and infused with amino acids known for their high moisturizing effects, the powder achieves a smooth touch when applied to the skin. It blends more seamlessly with the skin, making it less prone to dryness and powder flaking.",
+		"Price": 79.99,
+		"PictureUrl": "images/products/hat-react1.png",
+		"ProductTypeId": 2,
+		"ProductBrandId": 6
+	},
+	{
+		"Name": "SHISEIDO Professional Sublimic Liminoforce Brilliance Oil (Colored Hair)",
+		"Description": "A two-layer-oil makes hair shiny and silky to the ends, while protecting colored hair from external stressors such as UV radiation and preventing color fading.",
+		"Price": 54.99,
+		"PictureUrl": "images/products/hat-react2.png",
+		"ProductTypeId": 8,
+		"ProductBrandId": 4
+	},
+	{
+		"Name": "MILBON Elujuda Sun Protect Serum",
+		"Description": "While moisturizing the hair, it uses advanced sunscreen ingredients to protect the hair from UV damage, so there's no need to worry about hair damage even when spending extended periods in strong sunlight..",
+		"Price": 46.99,
+		"PictureUrl": "images/products/glove-code1.png",
+		"ProductTypeId": 8,
+		"ProductBrandId": 7
+	},
+	{
+		"Name": "POLA Growing Shot Conditioner",
+		"Description": "It accelerates the regeneration of collagen in the scalp, improves the relaxation of hair roots, and tightens hair follicles. By gradually conditioning and improving the scalp environment, it prevents hair loss while promoting new hair growth. It concentrates melanin in the scalp at the root of the hair, resulting in the natural growth of black hair. After use, the hair will feel more voluminous.",
+		"Price": 49.99,
+		"PictureUrl": "images/products/glove-code2.png",
+		"ProductTypeId": 7,
+		"ProductBrandId": 8
+	}
+]

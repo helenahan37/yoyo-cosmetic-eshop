@@ -1,0 +1,34 @@
+[
+	{
+		"Id": 1,
+		"Name": "Foundation & Primer"
+	},
+	{
+		"Id": 2,
+		"Name": "Face Powder"
+	},
+	{
+		"Id": 3,
+		"Name": "Bronzer & Highlighter"
+	},
+	{
+		"Id": 4,
+		"Name": "Concealer"
+	},
+	{
+		"Id": 5,
+		"Name": "Skincare Cleanser"
+	},
+	{
+		"Id": 6,
+		"Name": "Skincare Moisturizer"
+	},
+	{
+		"Id": 7,
+		"Name": "Hair Treatment"
+	},
+	{
+		"Id": 8,
+		"Name": "Shampoo & Conditioner"
+	}
+]
