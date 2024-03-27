@@ -3,7 +3,6 @@ using Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Core.Interfaces;
 using Core.Specifications;
-using System.Linq;
 
 namespace Infrastructure.Data
 {
